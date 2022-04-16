@@ -1,30 +1,3 @@
-import smtplib
-import time
-import maskpass
-import threading, queue, random, os, sys, time, discord; from requests_futures.sessions import FuturesSession; from discord.ext import commands
-
-from pystyle import Add, Center, Anime, Colors, Colorate, Write, System
-
-import os
-import sys
-import time
-import json
-import httpx
-import queue
-from random import random
-import discord
-import maskpass
-import random
-import threading
-from numpy import random
-from pystyle import Colorate, Colors, Anime, Center
-from discord.ext import commands
-from colored import fg, attr
-import threading, queue, random, os, sys, time, discord; from requests_futures.sessions import FuturesSession; from discord.ext import commands
-import uuid
-
-from datetime import datetime
-
 now = datetime.now() # current date and time
 
 class colors:
